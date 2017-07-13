@@ -7,12 +7,12 @@
 ### Description
 
 The bidorbuy Store Integrator allows you to get products from your online store listed on bidorbuy quickly and easily.
-Expose your products to the bidorbuy audience - one of the largest audiences of online shoppers in South Africa Store updates will be fed through to bidorbuy automatically, within 24 hours so you can be sure that your store is in sync within your bidorbuy listings. All products will appear as Buy Now listings. There is no listing fee just a small commission on successful sales. View fees (https://support.bidorbuy.co.za/index.php?/Knowledgebase/Article/View/22/0/fee-rate-card---what-we-charge). Select as many product categories to list on bidorbuy as you like. No technical requirements necessary.
+Expose your products to the bidorbuy audience - one of the largest audiences of online shoppers in South Africa Store updates will be fed through to bidorbuy automatically, within 24 hours so you can be sure that your store is in sync within your bidorbuy listings. All products will appear as Buy Now listings. There is no listing fee just a small commission on successful sales. View [fees](https://support.bidorbuy.co.za/index.php?/Knowledgebase/Article/View/22/0/fee-rate-card---what-we-charge). Select as many product categories to list on bidorbuy as you like. No technical requirements necessary.
 
 To make use of this plugin, you'll need to be an advanced seller on bidorbuy.
- * Register on bidorbuy (https://www.bidorbuy.co.za/jsp/registration/UserRegistration.jsp?action=Modify)
- * Apply to become an advanced seller (https://www.bidorbuy.co.za/jsp/seller/registration/UserSellersRequest.jsp)
-Once you integrate with bidorbuy, you will be contacted by a bidorbuy representative to guide you through the process.
+ * [Register on bidorbuy](https://www.bidorbuy.co.za/jsp/registration/UserRegistration.jsp?action=Modify)
+ * [Apply to become an advanced seller](https://www.bidorbuy.co.za/jsp/seller/registration/UserSellersRequest.jsp)
+ * Once you integrate with bidorbuy, you will be contacted by a bidorbuy representative to guide you through the process.
 
 ### System requirements
 
