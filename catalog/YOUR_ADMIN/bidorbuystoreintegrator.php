@@ -105,9 +105,9 @@ foreach ($warnings as $warning) {
         <script type="text/javascript">
 
             function init() {
-                cssjsmenu(\'navbar\');
+                cssjsmenu('navbar');
                 if (document.getElementById) {
-                    var kill = document.getElementById(\'hoverJS\');
+                    var kill = document.getElementById('hoverJS');
                     kill.disabled = true;
                 }
             }
@@ -362,10 +362,19 @@ foreach ($warnings as $warning) {
                 </td>
             </tr>
         </table>
-
+        <fieldset>
+            <div class="item-button">
+                <input type="button" name="save2" value="Save" onclick="jQuery('#submit').click()">
+            </div>
+        </fieldset>
         <!--END FORM -->
         </form>
-        <!--LOGS-->
+
+    </div>
+
+    <!--LOGS-->
+    <div class="postbox postbox-item postbox-long">
+        <h4 class="subheader">Logs</h4>
         <fieldset>
             <?php echo bobsi\StaticHolder::getBidorbuyStoreIntegrator()->getLogsHtml(); ?>
         </fieldset>

@@ -2,7 +2,7 @@
 
 ### Compatibility
 
- ZenCart 1.5
+ZenCart 1.5
 
 ### Description
 
@@ -16,47 +16,44 @@ To make use of this plugin, you'll need to be an advanced seller on bidorbuy.
 
 ### System requirements
 
-Minimum PHP version required: 5.3.0.
+Minimum PHP version required: 5.4
 
-PHP extensions: curl, mbstring.
+PHP extensions: curl, mbstring
 
 ### Installation
 
 1. Connect to your FTP server. 
 2. Unzip the extension on your local machine.
 3. Navigate to Catalog folder.
-4. Rename YOUR_ADMIN folder as your admin catalog of your zenCart installation (admincp by default).
+4. Rename YOUR_ADMIN folder as your admin catalog of your ZenCart installation (admincp by default).
 5. Copy all files from Catalog folder to your Root folder.
 
 ### Uninstallation
 
-1. Open AdminCP> Tools > Install SQL patches.
+1. Open AdminCP > Tools > Install SQL patches.
 2. Upload the uninstall.sql and press Upload button.
 3. Remove all files of plugin installation (via FTP).
 
 ### Upgrade
 
 Remove all old files of previous installation:
-1. Root folder-->`includes` folder-->`modules`-->`bidorbuystoreintegrator`;
-2. Root folder-->`bidorbuystoreintegrator.php`;
-3. YOUR_ADMIN folder-->`images`-->`bidorbuystoreintegrator`;
-4. YOUR_ADMIN folder-->`includes`-->`extra_datafiles`-->`bidorbuystoreintegrator.php`;
-5. YOUR_ADMIN folder-->`includes`-->`functions`-->`extra_functions`-->`reg_bidorbuystoreintegrator.php`;
-6. YOUR_ADMIN folder-->`includes`-->modules-->`bidorbuystoreintegrator`;
-5. YOUR_ADMIN folder-->`bidorbuystoreintegrator.php`.
+1. Root folder > includes > modules > bidorbuystoreintegrator;
+2. Root folder > bidorbuystoreintegrator.php;
+3. YOUR_ADMIN folder > images > bidorbuystoreintegrator;
+4. YOUR_ADMIN folder > includes > extra_datafiles > bidorbuystoreintegrator.php;
+5. YOUR_ADMIN folder > includes > functions > extra_functions > reg_bidorbuystoreintegrator.php;
+6. YOUR_ADMIN folder > includes > modules > bidorbuystoreintegrator;
+5. YOUR_ADMIN folder > bidorbuystoreintegrator.php.
 
 Re-install the archive. Please look through the installation chapter.
 
 ### Configuration
 
 1. Log in to control panel as administrator.
-2. Navigate to Tools >bidorbuy Store Integrator.
+2. Navigate to Tools > bidorbuy Store Integrator.
 3. Set the export criteria.
 4. Press the `Save` button.
 5. Press the `Export` button.
 6. Press the `Download` button.
 7. Share Export Links with bidorbuy.
 8. To display BAA fields on the setting page add '?baa=1' to URL in address bar.
-
-
-

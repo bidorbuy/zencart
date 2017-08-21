@@ -149,7 +149,7 @@ function bobsi_get_all_products() {
     return array_unique($active_products);
 }
 
-function &bobsi_export_products(&$productsIds, &$exportConfiguration = array()) {
+function bobsi_export_products($productsIds, $exportConfiguration = array()) {
     global $db;
 
     $exportQuantityMoreThan = bobsi\StaticHolder::getBidorbuyStoreIntegrator()->getSettings()->getExportQuantityMoreThan();
