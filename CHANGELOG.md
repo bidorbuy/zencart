@@ -2,9 +2,14 @@
 
 ### Changelog
 
+#### 2.0.9
+* Corrected headers processing in Store Integrator core.
+
+_[Updated on September 30, 2017]_
+
 #### 2.0.8
-* Improved the logging strategy.
-* Added an extra save button which was removed from debug section (settings page).
+* Improved the logging strategy for Debug level.
+* Added extra save button which was removed from Debug section (the settings page).
 * EOL (End-of-life due to the end of life of this version) for PHP 5.3 support.
 
 _[Updated on August 21, 2017]_

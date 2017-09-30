@@ -2,7 +2,13 @@
 
 ### Compatibility
 
-ZenCart 1.5
+
+| Product | PHP version  | Platform |
+| ------- | --- | --- |
+|Store Integrator-2.0.9 |5.4| ✓ ZenCart  1.5.1|
+|Store Integrator-2.0.8 |5.4| ✓ ZenCart  1.5.1|
+|Store Integrator-2.0.7 |5.3| ✓ ZenCart  1.5.1|
+|Store Integrator-2.0.6 |5.3| ✓ ZenCart  1.5.1|
 
 ### Description
 
@@ -36,16 +42,17 @@ PHP extensions: curl, mbstring
 
 ### Upgrade
 
-Remove all old files of previous installation:
-1. Root folder > includes > modules > bidorbuystoreintegrator;
-2. Root folder > bidorbuystoreintegrator.php;
-3. YOUR_ADMIN folder > images > bidorbuystoreintegrator;
-4. YOUR_ADMIN folder > includes > extra_datafiles > bidorbuystoreintegrator.php;
-5. YOUR_ADMIN folder > includes > functions > extra_functions > reg_bidorbuystoreintegrator.php;
-6. YOUR_ADMIN folder > includes > modules > bidorbuystoreintegrator;
-5. YOUR_ADMIN folder > bidorbuystoreintegrator.php.
+1. Remove all old files of previous installation:
 
-Re-install the archive. Please look through the installation chapter.
+* Root folder > includes > modules > bidorbuystoreintegrator;
+* Root folder > bidorbuystoreintegrator.php;
+* YOUR_ADMIN folder > images > bidorbuystoreintegrator;
+* YOUR_ADMIN folder > includes > extra_datafiles > bidorbuystoreintegrator.php;
+* YOUR_ADMIN folder > includes > functions > extra_functions > reg_bidorbuystoreintegrator.php;
+* YOUR_ADMIN folder > includes > modules > bidorbuystoreintegrator;
+* YOUR_ADMIN folder > bidorbuystoreintegrator.php.
+
+2. Re-install the archive. Please look through the installation chapter.
 
 ### Configuration
 
