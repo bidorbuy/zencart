@@ -5,6 +5,7 @@
 
 | Product | PHP version  | Platform |
 | ------- | --- | --- |
+|Store Integrator-2.0.10 |5.4| ✓ ZenCart  1.5.1|
 |Store Integrator-2.0.9 |5.4| ✓ ZenCart  1.5.1|
 |Store Integrator-2.0.8 |5.4| ✓ ZenCart  1.5.1|
 |Store Integrator-2.0.7 |5.3| ✓ ZenCart  1.5.1|
